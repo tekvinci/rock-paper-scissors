@@ -1,0 +1,9 @@
+{
+  "name": "rock-paper-scissors-game",
+  "version": "1.0.0",
+  "description": "剪刀石頭布遊戲",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8000"
+  }
+}
